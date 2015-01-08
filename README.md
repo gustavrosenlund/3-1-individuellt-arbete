@@ -6,12 +6,12 @@ Krav på webbapplikationen till det individuella arbetet
 (Krav kursen Databasteknik ställer på databasen som ingår i det individuella arbetet hittar du på webbplatsen för kursen Databasteknik.)
 
 1. Det individuella arbetet ska i sin helhet versionshanteras via Git och hanteras på GitHub. Repositoriet ska delas ut till kursledningen genom att göra GitHub-användaren 1dv406 till “collaborator”.
-2. **En idébeskrivning, pdf- eller md-fil med namnet idebeskrivning.pdf|md, ska senast onsdagen den 5 mars 2014 12:00 lags upp i repositorietför ditt individuella arbete. Meddela även kurseldningen att det finns en idébeskrivning genom att skicka ett mejl till 1dv406@lnu.se** med ämnesraden ‘Idébeskrivning VT14′.
+2. **En idébeskrivning, pdf- eller md-fil med namnet idebeskrivning.pdf|md, ska senast tisdagen den 3 mars 2015 12:00 lags upp i repositorietför ditt individuella arbete. Meddela även kurseldningen att det finns en idébeskrivning genom att skicka ett mejl till 1dv406@lnu.se** med ämnesraden ‘Idébeskrivning VT14′.
 	1. Idébeskrivningen ska innehålla:
 	2. En kort beskrivning av problemet.
 	3. En fysisk datamodell i form av ett databasdiagram om tre tabeller med relationer mellan tabellerna. Exempeldata ska även finnas för samtliga tabeller i datamodellen.
 	4. “Mockup”, en eller flera av enklare slag, vars fokus är att beskriva funktion snarare än grafisk design.
-3. **Den fullständiga webbapplikationen och databasen måste senast onsdagen den 19 mars 2014 12:00 ha publicerats på publikationsservern FALKEN.**
+3. **Den fullständiga webbapplikationen och databasen måste senast tisdagen den 17 mars 2015 12:00 ha publicerats på publikationsservern FALKEN.**
 4. Webbapplikationen ska vara skapad med ASP.NET 4.5 och C#.
 5. Webbapplikationen måste bestå av minst två .aspx-sidor.
 6. Webbapplikationen måste använda sig av **minst en “master page”**.
