@@ -5,7 +5,7 @@ Det tredje steget utgörs uteslutande av ett individuellt arbete (ett gemensamt 
 Krav på webbapplikationen till det individuella arbetet
 (Krav kursen Databasteknik ställer på databasen som ingår i det individuella arbetet hittar du på webbplatsen för kursen Databasteknik.)
 
-1. Det individuella arbetet ska i sin helhet versionshanteras via Git och hanteras på GitHub. Repositoriet ska delas ut till kursledningen genom att göra GitHub-användaren 1dv406 till “collaborator”.
+1. Det individuella arbetet ska i sin helhet versionshanteras via Git och hanteras på GitHub. Repositoriet du ska använda tillhandahålls av kursledningen.
 2. **En idébeskrivning, pdf- eller md-fil med namnet idebeskrivning.pdf|md, ska senast tisdagen den 3 mars 2015 12:00 lags upp i repositorietför ditt individuella arbete. Meddela även kurseldningen att det finns en idébeskrivning genom att skicka ett mejl till 1dv406@lnu.se** med ämnesraden ‘Idébeskrivning VT15′.
 	1. Idébeskrivningen ska innehålla:
 	2. En kort beskrivning av problemet.
