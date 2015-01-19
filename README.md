@@ -3,7 +3,7 @@
 Det tredje steget utgörs uteslutande av ett individuellt arbete (ett gemensamt arbete tillsammans med kursen Databasteknik om du även läser den kursen).
 
 Krav på webbapplikationen till det individuella arbetet
-===
+------------------------------------------------------
 (Krav kursen Databasteknik ställer på databasen som ingår i det individuella arbetet hittar du på webbplatsen för kursen Databasteknik.)
 
 1. Det individuella arbetet ska i sin helhet versionshanteras via Git och hanteras på GitHub. Repositoriet du ska använda tillhandahålls av kursledningen.
