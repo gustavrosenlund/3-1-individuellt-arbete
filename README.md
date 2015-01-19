@@ -6,6 +6,8 @@ Krav på webbapplikationen till det individuella arbetet
 ------------------------------------------------------
 (Krav kursen Databasteknik ställer på databasen som ingår i det individuella arbetet hittar du på webbplatsen för kursen Databasteknik.)
 
+Aktuella krav hittar du på kursens webbplats, (https://coursepress.lnu.se/kurs/aspnet-web-forms/individuellt-arbete/).
+
 1. Det individuella arbetet ska i sin helhet versionshanteras via Git och hanteras på GitHub. Repositoriet du ska använda tillhandahålls av kursledningen.
 2. **En idébeskrivning, pdf- eller md-fil med namnet idebeskrivning.pdf|md, ska senast tisdagen den 3 mars 2015 12:00 lags upp i repositorietför ditt individuella arbete. Meddela även kurseldningen att det finns en idébeskrivning genom att skicka ett mejl till 1dv406@lnu.se** med ämnesraden ‘Idébeskrivning VT15′.
 	1. Idébeskrivningen ska innehålla:
